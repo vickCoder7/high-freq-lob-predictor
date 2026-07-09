@@ -4,3 +4,6 @@ pyarrow
 notebook
 numpy
 matplotlib
+scikit-learn
+torch
+tqdm
