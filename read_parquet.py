@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Path to the collected data
-PARQUET_FILE = "lob_data.parquet"
+PARQUET_FILE = "lstm_predictions.parquet"
 
 try:
     # Read the parquet file into a Pandas DataFrame
